@@ -2,11 +2,7 @@
   "name": "aaeach",
   "description": "Simple foreach for async/await",
   "version": "1.0.1",
-  "author": {
-    "email": "zac@zacanger.com",
-    "name": "Zac Anger",
-    "url": "https://zacanger.com"
-  },
+  "author": "Autumn Z",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
@@ -15,12 +11,12 @@
     "test:lint": "eslint *.js",
     "test:tape": "tape test.js"
   },
-  "homepage": "https://github.com/zacanger/aaeach#readme",
+  "homepage": "https://github.com/zautumnz/aaeach#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/aaeach.git"
+    "url": "https://github.com/zautumnz/aaeach.git"
   },
-  "bugs": "https://github.com/zacanger/aaeach/issues",
+  "bugs": "https://github.com/zautumnz/aaeach/issues",
   "keywords": [
     "async",
     "await",
@@ -31,7 +27,6 @@
   "devDependencies": {
     "babel-eslint": "10.0.1",
     "eslint": "5.15.1",
-    "eslint-config-zacanger": "3.4.2",
     "eslint-plugin-babel": "5.3.0",
     "eslint-plugin-import": "2.16.0",
     "eslint-plugin-node": "8.0.1",
